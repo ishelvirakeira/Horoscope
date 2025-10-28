@@ -1,5 +1,7 @@
 This project displays a user's horoscope sign based on their birth date. 
 
+Find the live demo at https://ishelvirakeira.github.io/Horoscope/
+
 <img width="958" height="196" alt="horoscope" src="https://github.com/user-attachments/assets/565e61ec-2197-4669-bd14-0523755c9637" />
 
 Tools used: HTML, CSS, JavaScript
